@@ -5,7 +5,7 @@
 
 .bannerBgImage {
     height: 100vh;
-    background:url("./lapi.jpg");
+    background:url("/css/lapi.jpg");
     background-size: cover;
     position: relative;
 }
